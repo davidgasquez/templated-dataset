@@ -20,6 +20,8 @@ datapackage:
 
 Welcome to the body of your dataset site. Everything above this section is part of the Data package front matter.
 
+> Check [docs.md]
+
 # Overview
 
 Here is a quick overview of the template structure:

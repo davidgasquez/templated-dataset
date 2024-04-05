@@ -18,6 +18,9 @@ datapackage:
         type: number
 ---
 
+
+Check [docs.md]!
+
 Welcome to the body of your dataset site. Everything above this section is part of the Data package front matter.
 
 > Check [docs.md]
